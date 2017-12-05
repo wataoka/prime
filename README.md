@@ -139,3 +139,4 @@ with open("histosy.pickle", mode='wb') as f:
 ## 結果
 できたモデルの性能は`plot.py`で出力できるようにしている.  
 accuracyのグラフが以下だ.
+[グラフ](./graph/acc.py)
